@@ -3,7 +3,7 @@ import csv
 import json
 import os
 from datetime import datetime
-from components.utils.config import log_info, log_error
+from utils.config import log_info, log_error
 
 # Estados mantidos em memória simples
 _queue_items: List[Dict[str, Any]] = []
