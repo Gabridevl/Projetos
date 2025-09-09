@@ -1,0 +1,13 @@
+{
+  "screenshot_folder": "logs/screenshots/",
+  "url": "",
+  "username": "",
+  "password": "",
+  "wait_time_in_minutes": 2,
+  "ativar_log": true,
+  "nivel_log": "INFO",
+  "browser": "chrome",
+  "headless": true,
+  "download_dir": "downloads",
+  "limpar_cache_no_start": true
+}
